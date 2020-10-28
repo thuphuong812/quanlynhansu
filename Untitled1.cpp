@@ -6,5 +6,5 @@ int main(){
 	printf("hello");
 =======
 	printf("helloo xin chao!!!");
->>>>>>> 2b24d0fce661739a0484123ccacfecdf246d950b
+
 }
