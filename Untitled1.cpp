@@ -3,7 +3,7 @@
 int main(){
 	printf("helloo");
 	printf("hello");
-	printf("helloo xin chao!!!");
-	printf("helloo xin chao1!!!");
-    printf("helloo xin chao2!!!");
+	printf("helloo linda!!!");
+	printf("helloo layla!!!");
+    printf("helloo sally!!!");
 }
